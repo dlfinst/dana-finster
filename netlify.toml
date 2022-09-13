@@ -1,4 +1,5 @@
 [build]
-  publish = "danafinseter/public"
-  command = "hugo -s danafinster --config config.toml --baseURL /"
+  command = "hugo"
+  functions = "netlify/functions"
+  publish = "public"
 
