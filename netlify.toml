@@ -1,0 +1,4 @@
+[build]
+  publish = "danafinseter.com/public"
+  command = "hugo -s danafinster.com --config config.toml --baseURL /"
+
