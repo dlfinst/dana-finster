@@ -11,9 +11,9 @@ weight: 10
 
 - Outcome-driven software engineer and technical leader focused on software development strategy, improving value delivery, and removing risk and toil through automation.
 
-- DevOps evangelist with experience facilitating CD training workshops, planning, and hosting enterprise DevOps events, and building communities.
+- DevSecOps practitioner and evangelist with experience planning and building deployment pipeline capabilities, facilitating CD training workshops, organizing enterprise DevOps events, and building communities.
 
-- Full-stack software engineer offering extensive C# .NET and JavaScript application development skills with broad experience in security, business analysis, architecture, and development of software systems in multiple industries
+- Full-stack software engineer offering extensive C# .NET and JavaScript application development skills with broad experience in security, business analysis, architecture, cloud applications, and development of software systems in multiple industries
 
 - Creative designer with experience building web applications that are secure, innovative, attractive, and user friendly
 
@@ -71,6 +71,11 @@ weight: 10
 
 ## DevOps Community Engagement
 
+{{% badge primary %}}Presentations{{% /badge %}}
+{{% badge primary %}}DevOps{{% /badge %}}
+{{% badge primary %}}Continuous Delivery{{% /badge %}}
+{{% badge primary %}}Security{{% /badge %}}
+
 - Leadership committee member for Better Value Sooner Safer Happier (BVSSH) – Americas community: 2021 and NWA Tech Summit: 2020-2021
 - Lightning talk for BVSSH community session, 2021: “Security Theater”
 - Speaker at NWA Tech Summit, 2021: “From Jenga Driven Development to Domain Driven Design – Aligning teams for value delivery”, 2020: “Growing team culture through continuous improvement”
@@ -92,6 +97,15 @@ weight: 10
 ### Technical Expert - Cybersecurity, _September 2019 – Present_
 #### Walmart, _Bentonville, AR_
 
+{{% badge primary %}}C#{{% /badge %}}
+{{% badge primary %}}.NET 6{{% /badge %}}
+{{% badge primary %}}MSSQL{{% /badge %}}
+{{% badge primary %}}Python{{% /badge %}}
+{{% badge primary %}}NodeJS{{% /badge %}}
+{{% badge primary %}}React{{% /badge %}}
+{{% badge primary %}}Power BI{{% /badge %}}
+{{% badge primary %}}Continuous Delivery{{% /badge %}}
+
 - Design, develop, and support software solutions for Walmart’s eDiscovery and Forensics Lab that adhere to ANSI National Accreditation Board (ANAB) requirements
 - Collaborate with area leadership to define and implement infrastructure, development, and deployment standards to reduce risk and improve quality
 - Drive continuous improvement through automated metrics reporting that enables the team to track progress and identify the next improvement target
@@ -102,6 +116,18 @@ weight: 10
 ### Cloud Platform & Engineering Continuous Delivery Lead, _November 2018 – September 2019_
 #### FireEye, Inc, _Milpitas, CA (Remote)_
 
+{{% badge dark %}}DevOps{{% /badge %}}
+{{% badge dark %}}Jenkins{{% /badge %}}
+{{% badge dark %}}Docker{{% /badge %}}
+{{% badge dark %}}Kubernetes{{% /badge %}}
+{{% badge dark %}}Helm{{% /badge %}}
+{{% badge dark %}}AWS{{% /badge %}}
+{{% badge dark %}}S3{{% /badge %}}
+{{% badge dark %}}EC2{{% /badge %}}
+{{% badge dark %}}Route 53{{% /badge %}}
+{{% badge dark %}}Cloud Formation{{% /badge %}}
+{{% badge dark %}}RDB{{% /badge %}}
+
 - Led delivery platform strategy for cloud solutions
 - Designed a centralized delivery platform after evaluation of various pipeline tools including Spinnaker, Concord, Jenkins, Checkmarx, Sonar, Coverity, Nexus, Artifactory, and Hygieia
 - Configured AWS environments for platform tools and applications to meet customer needs including FedRAMP compliance
@@ -111,6 +137,15 @@ weight: 10
 
 ### Principal Software Engineer - Cybersecurity, _August 2017 – November 2018_
 #### Walmart, _Bentonville, AR_
+
+{{% badge primary %}}C#{{% /badge %}}
+{{% badge primary %}}.NET 6{{% /badge %}}
+{{% badge primary %}}MSSQL{{% /badge %}}
+{{% badge primary %}}Python{{% /badge %}}
+{{% badge primary %}}Docker{{% /badge %}}
+{{% badge primary %}}NodeJS{{% /badge %}}
+{{% badge primary %}}React{{% /badge %}}
+{{% badge primary %}}Continuous Delivery{{% /badge %}}
 
 - Collaborated with business partners and team members to provide software solutions for Walmart’s ANAB certified eDiscovery & Forensics Lab and Security Operations Center
 - Developed and supported multiple product offerings including a case workflow system, SIRT and enterprise-facing web portals, digital evidence collection applications, collection automation, and reporting
