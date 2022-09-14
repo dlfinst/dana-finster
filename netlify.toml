@@ -1,0 +1,3 @@
+[build]
+  publish = "dana-finster/public"
+  command = "hugo -s dana-finster --config config.toml --baseURL /"
