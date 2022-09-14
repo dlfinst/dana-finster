@@ -19,7 +19,13 @@ weight: 10
 
 ## Skills
 
-{{% badge info %}}Software Development{{% /badge %}}
+- API Development
+- Web Development
+- Relational Database Administration
+- Scripting
+- Continuous Integration
+
+<!-- {{% badge info %}}Software Development{{% /badge %}}
 {{% badge info %}}React{{% /badge %}}
 {{% badge info %}}NodeJS{{% /badge %}}
 {{% badge info %}}JavaScript{{% /badge %}}
@@ -67,7 +73,7 @@ weight: 10
 {{% badge secondary %}}Power BI{{% /badge %}}
 {{% badge secondary %}}Tableau{{% /badge %}}
 {{% badge secondary %}}Microsoft SSRS{{% /badge %}}
-{{% badge secondary %}}Crystal Reports{{% /badge %}}
+{{% badge secondary %}}Crystal Reports{{% /badge %}} -->
 
 ## DevOps Community Engagement
 
