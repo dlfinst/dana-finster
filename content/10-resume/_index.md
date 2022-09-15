@@ -62,6 +62,7 @@ weight: 10
 {{% badge info %}}Rundeck Administration{{% /badge %}}
 {{% badge info %}}Jira Integrations{{% /badge %}}
 {{% badge info %}}OWASP ZAP{{% /badge %}}
+{{% badge info %}}Continuous Delivery{{% /badge %}}
 
 
 - Design, develop, and support software solutions for Walmart’s eDiscovery and Forensics Lab that adhere to ANSI National Accreditation Board (ANAB) requirements
@@ -86,6 +87,7 @@ weight: 10
 {{% badge info %}}SonarQube{{% /badge %}}
 {{% badge info %}}Hygieia{{% /badge %}}
 {{% badge info %}}nginx{{% /badge %}}
+{{% badge info %}}Continuous Delivery{{% /badge %}}
 
 - Led delivery platform strategy for cloud solutions
 - Designed a centralized delivery platform after evaluation of various pipeline tools including Spinnaker, Concord, Jenkins, Checkmarx, Sonar, Coverity, Nexus, Artifactory, and Hygieia
@@ -109,6 +111,7 @@ weight: 10
 {{% badge info %}}.NET Framework{{% /badge %}}
 {{% badge info %}}WCF{{% /badge %}}
 {{% badge info %}}WPF/XAML{{% /badge %}} 
+{{% badge info %}}Continuous Delivery{{% /badge %}}
 
 - Collaborated with business partners and team members to provide software solutions for Walmart’s ANAB certified eDiscovery & Forensics Lab and Security Operations Center
 - Developed and supported multiple product offerings including a case workflow system, SIRT and enterprise-facing web portals, digital evidence collection applications, collection automation, and reporting
@@ -128,6 +131,7 @@ weight: 10
 {{% badge info %}}SSRS{{% /badge %}}
 {{% badge info %}}Tableau{{% /badge %}}
 {{% badge info %}}IIS{{% /badge %}}
+{{% badge info %}}Continuous Delivery{{% /badge %}}
 
 - Led design, development, platform research, and deployment for configuration-based metrics & reporting application that consolidated siloed divisional analytics into a central hub
 - Guided process improvement and worked with team members to improve agile, CI/CD and technical skills, enabling the team to expand data & analytics offerings and reduce communication and process overhead
