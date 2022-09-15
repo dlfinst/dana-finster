@@ -19,20 +19,13 @@ weight: 10
 
 ## Skills
 
-- Application Development
-- Test Driven Development
-- Continuous Delivery Pipeline Design and Development
-- Relational Database Administration
-- Continuous Integration
-- Cloud Application Development
-- Cloud Configuraiton
+| - Application Development | - Cloud Architecture |
+| - Test Driven Development | - Cloud Configuraiton |
+| - Continuous Delivery Pipeline Design and Development | - Cybersecurity |
+| - Relational Database Administration | - Communication and Presentation |
+| - Continuous Integration | - Leadership and Mentorship |
 
 ## DevOps Community Engagement
-
-{{% badge info %}}Presentation{{% /badge %}}
-{{% badge info %}}DevOps{{% /badge %}}
-{{% badge info %}}Continuous Delivery{{% /badge %}}
-{{% badge info %}}Security{{% /badge %}}
 
 - Leadership committee member for Better Value Sooner Safer Happier (BVSSH) – Americas community: 2021 and NWA Tech Summit: 2020-2021
 - Lightning talk for BVSSH community session, 2021: “Security Theater”
