@@ -7,8 +7,6 @@ hide:
 weight: 10
 ---
 
-## Highlights
-
 - Outcome-driven software engineer and technical leader focused on software development strategy, improving value delivery, and removing risk and toil through automation.
 
 - DevSecOps practitioner and evangelist with experience planning and building deployment pipeline capabilities, facilitating CD training workshops, organizing enterprise DevOps events, and building communities.
@@ -67,8 +65,8 @@ weight: 10
 
 
 - Design, develop, and support software solutions for Walmart’s eDiscovery and Forensics Lab that adhere to ANSI National Accreditation Board (ANAB) requirements
-- Collaborate with area leadership to define and implement infrastructure, development, and deployment standards to reduce risk and improve quality
-- Lead team way of working and drive continuous process and product improvement
+- Strategize with leadership to implement infrastructure, development, and deployment standards to reduce risk and improve quality
+- Lead team ways of working and continuous process and product improvement
 - Collaborate with teams in other areas of Walmart to pilot platform security controls, integrate application capabilities, and encourage participation in the centralized Walmart developer experience initiative
 
 ### Cloud Platform & Engineering Continuous Delivery Lead, _November 2018 – September 2019_
