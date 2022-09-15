@@ -74,16 +74,16 @@ weight: 10
 ### Cloud Platform & Engineering Continuous Delivery Lead, _November 2018 – September 2019_
 #### FireEye, Inc, _Milpitas, CA (Remote)_
 
-{{% badge dark %}}DevOps{{% /badge %}}
-{{% badge dark %}}Jenkins{{% /badge %}}
-{{% badge dark %}}Docker{{% /badge %}}
-{{% badge dark %}}Kubernetes{{% /badge %}}
-{{% badge dark %}}Helm{{% /badge %}}
-{{% badge dark %}}AWS{{% /badge %}}
-{{% badge dark %}}S3{{% /badge %}}
-{{% badge dark %}}EC2{{% /badge %}}
-{{% badge dark %}}Route 53{{% /badge %}}
-{{% badge dark %}}Cloud Formation{{% /badge %}}
+{{% badge info %}}DevOps{{% /badge %}}
+{{% badge info %}}Jenkins{{% /badge %}}
+{{% badge info %}}Docker{{% /badge %}}
+{{% badge info %}}Kubernetes{{% /badge %}}
+{{% badge info %}}Helm{{% /badge %}}
+{{% badge info %}}AWS{{% /badge %}}
+{{% badge info %}}S3{{% /badge %}}
+{{% badge info %}}EC2{{% /badge %}}
+{{% badge info %}}Route 53{{% /badge %}}
+{{% badge info %}}Cloud Formation{{% /badge %}}
 {{% badge info %}}Jira Integrations{{% /badge %}}
 {{% badge info %}}SonarQube{{% /badge %}}
 {{% badge info %}}Hygieia{{% /badge %}}
