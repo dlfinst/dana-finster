@@ -19,11 +19,13 @@ weight: 10
 
 ## Skills
 
-| - Application Development | - Cloud Architecture |
-| - Test Driven Development | - Cloud Configuraiton |
-| - Continuous Delivery Pipeline Design and Development | - Cybersecurity |
-| - Relational Database Administration | - Communication and Presentation |
-| - Continuous Integration | - Leadership and Mentorship |
+| | |
+|---|---|
+| Application Development | Cloud Architecture |
+| Test Driven Development | Cloud Configuraiton |
+| Continuous Delivery Pipeline Design and Development | Cybersecurity |
+| Relational Database Administration | Communication and Presentation |
+| Continuous Integration | Leadership and Mentorship |
 
 ## DevOps Community Engagement
 
@@ -83,8 +85,8 @@ weight: 10
 {{% badge dark %}}Route 53{{% /badge %}}
 {{% badge dark %}}Cloud Formation{{% /badge %}}
 {{% badge info %}}Jira Integrations{{% /badge %}}
-{{% badge info %}SonarQube{{% /badge %}}
-{{% badge info %}Hygieia{{% /badge %}}
+{{% badge info %}}SonarQube{{% /badge %}}
+{{% badge info %}}Hygieia{{% /badge %}}
 {{% badge info %}}nginx{{% /badge %}}
 
 - Led delivery platform strategy for cloud solutions
@@ -105,7 +107,7 @@ weight: 10
 {{% badge info %}}React{{% /badge %}}
 {{% badge info %}}IIS{{% /badge %}}
 {{% badge info %}}nginx{{% /badge %}}
-{{% badge info %}}Docker{{% /badge %}}{{% badge info %}}C#{{% /badge %}}
+{{% badge info %}}C#{{% /badge %}}
 {{% badge info %}}.NET Framework{{% /badge %}}
 {{% badge info %}}WCF{{% /badge %}}
 {{% badge info %}}WPF/XAML{{% /badge %}} 
