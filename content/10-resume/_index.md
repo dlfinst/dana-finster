@@ -1,9 +1,9 @@
 ---
 date: 2016-03-09T00:11:02+01:00
 description: "Dana Finster's Resume"
-title: "Dana Finster"
-hide:
-  - nav
+title: "Resume"
+# hide:
+#   - nav
 weight: 10
 ---
 
@@ -63,6 +63,7 @@ weight: 10
 {{% badge info %}}Jira Integrations{{% /badge %}}
 {{% badge info %}}OWASP ZAP{{% /badge %}}
 {{% badge info %}}Continuous Delivery{{% /badge %}}
+{{% badge info %}}S3{{% /badge %}}
 
 
 - Design, develop, and support software solutions for Walmart’s eDiscovery and Forensics Lab that adhere to ANSI National Accreditation Board (ANAB) requirements
