@@ -19,11 +19,11 @@ weight: 10
 
 | | |
 |---|---|
-| Application Development | Cloud Architecture |
+| Application Development | Cybersecurity |
 | Test Driven Development | Cloud Configuraiton |
-| Continuous Delivery Pipeline Design and Development | Cybersecurity |
+| Continuous Delivery Pipeline Design and Development | Leadership and Mentorship |
 | Relational Database Administration | Communication and Presentation |
-| Continuous Integration | Leadership and Mentorship |
+| Continuous Integration | |
 
 ## DevOps Community Engagement
 
