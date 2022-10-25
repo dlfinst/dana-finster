@@ -81,20 +81,14 @@ tabWidth = 2
 # weight = 11
 
 [[menu.shortcuts]]
-name = "Credits"
-identifier = "credits"
-url = "docport-theme/credits"
-weight = 30
-
-[[menu.shortcuts]]
 name = "Resume"
 identifier = "resume"
-url = "docport-theme/10-resume"
+url = "10-resume"
 weight = 10
 
 [[menu.shortcuts]]
 name = "Videos"
 identifier = "videos"
-url = "docport-theme/20-videos"
+url = "20-videos"
 weight = 20
 
